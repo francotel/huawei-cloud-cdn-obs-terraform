@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.7">
+  <diagram name="Page-1" id="FsePiPSS50vuhSV2WGlx">
+    <mxGraphModel dx="1122" dy="684" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lO5z2IR4KLf3HlgWs3jt-2" value="OBS" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Storage/OBS.png;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="667.9969230769228" y="482.0015384615383" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="lO5z2IR4KLf3HlgWs3jt-5" value="User" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=1;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" vertex="1" parent="1">
+          <mxGeometry x="8" y="482" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="lO5z2IR4KLf3HlgWs3jt-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lO5z2IR4KLf3HlgWs3jt-3" target="lO5z2IR4KLf3HlgWs3jt-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lO5z2IR4KLf3HlgWs3jt-3" value="CDN" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ContentDeliveryEdgeComputing/CDN.png;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="448.9961538461538" y="481.9976923076924" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="lO5z2IR4KLf3HlgWs3jt-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lO5z2IR4KLf3HlgWs3jt-6" target="lO5z2IR4KLf3HlgWs3jt-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lO5z2IR4KLf3HlgWs3jt-6" value="Certificate Manager" style="shape=image;verticalLabelPosition=top;labelBackgroundColor=default;verticalAlign=bottom;aspect=fixed;imageAspect=0;image=https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/SecurityCompliance/SSL.png;fontStyle=1;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="367.00307692307666" y="345.0030769230769" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="lO5z2IR4KLf3HlgWs3jt-7" value="LTS&#xa;Long Tank Service" style="shape=image;verticalLabelPosition=top;labelBackgroundColor=default;verticalAlign=bottom;aspect=fixed;imageAspect=0;image=https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/LTS.png;fontStyle=1;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="555.9982352941178" y="355.00352941176465" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="lO5z2IR4KLf3HlgWs3jt-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lO5z2IR4KLf3HlgWs3jt-11" target="lO5z2IR4KLf3HlgWs3jt-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lO5z2IR4KLf3HlgWs3jt-11" value="Route 53" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#8C4FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=1;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.route_53;" vertex="1" parent="1">
+          <mxGeometry x="175" y="482" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="lO5z2IR4KLf3HlgWs3jt-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lO5z2IR4KLf3HlgWs3jt-5" target="lO5z2IR4KLf3HlgWs3jt-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lO5z2IR4KLf3HlgWs3jt-20" value="" style="rounded=1;arcSize=0;dashed=1;fillColor=none;gradientColor=none;dashPattern=1 1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="299" y="295" width="522" height="311.5" as="geometry" />
+        </mxCell>
+        <mxCell id="lO5z2IR4KLf3HlgWs3jt-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://nulogic.lat/wp-content/uploads/2022/10/HUAWEI-logo.png;" vertex="1" parent="1">
+          <mxGeometry x="299.0023529411766" y="253.00117647058823" width="100" height="39.2" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
