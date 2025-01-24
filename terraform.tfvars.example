@@ -1,0 +1,5 @@
+### VARIABLES HW  ###
+hw-profile       = "hcloud"
+hw-region        = "ap-southeast-1"
+hw-config-file   = "/Users/USER/.hcloud/config.json"
+hw-force-destroy = true
